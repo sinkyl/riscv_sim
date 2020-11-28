@@ -1,0 +1,13 @@
+/home/sinan/projects/c/riscv_sim/build/CMakeFiles/rebuild_cache.dir
+/home/sinan/projects/c/riscv_sim/build/CMakeFiles/edit_cache.dir
+/home/sinan/projects/c/riscv_sim/build/src/CMakeFiles/rebuild_cache.dir
+/home/sinan/projects/c/riscv_sim/build/src/CMakeFiles/projet1.dir
+/home/sinan/projects/c/riscv_sim/build/src/CMakeFiles/edit_cache.dir
+/home/sinan/projects/c/riscv_sim/build/ui/CMakeFiles/rebuild_cache.dir
+/home/sinan/projects/c/riscv_sim/build/ui/CMakeFiles/edit_cache.dir
+/home/sinan/projects/c/riscv_sim/build/test/CMakeFiles/rebuild_cache.dir
+/home/sinan/projects/c/riscv_sim/build/test/CMakeFiles/test.dir
+/home/sinan/projects/c/riscv_sim/build/test/CMakeFiles/edit_cache.dir
+/home/sinan/projects/c/riscv_sim/build/test/unity/CMakeFiles/rebuild_cache.dir
+/home/sinan/projects/c/riscv_sim/build/test/unity/CMakeFiles/unity.dir
+/home/sinan/projects/c/riscv_sim/build/test/unity/CMakeFiles/edit_cache.dir

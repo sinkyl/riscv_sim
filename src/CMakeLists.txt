@@ -1,0 +1,15 @@
+FILE(GLOB SOURCES ./*.c)
+
+FIND_PACKAGE(PkgConfig REQUIRED)
+PKG_CHECK_MODULES(GTK3 REQUIRED gtk+-3.0)
+
+
+INCLUDE_DIRECTORIES(${GTK3_INCLUDE_DIRS})
+LINK_DIRECTORIES(${GTK3_LIBRARY_DIRS})
+
+
+ADD_DEFINITIONS(${GTK3_CFLAGS_OTHER})
+ADD_EXECUTABLE(projet1 ${SOURCES} ../main.c ../include/instruction.h decodeur.c ../include/decodeur.h processeur.c ../include/processeur.h ../ui/ui.c ../include/ui.h)
+
+TARGET_INCLUDE_DIRECTORIES(projet1 PUBLIC ${CMAKE_CURRENT_LIST_DIR})
+TARGET_LINK_LIBRARIES(projet1 ${GTK3_LIBRARIES})

@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I../src -g   -pthread -std=gnu99 -o src/CMakeFiles/projet1.dir/decodeur.c.o -c /home/sinan/projects/c/riscv_sim/src/decodeur.c",
+  "file": "/home/sinan/projects/c/riscv_sim/src/decodeur.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I../src -g   -pthread -std=gnu99 -o src/CMakeFiles/projet1.dir/processeur.c.o -c /home/sinan/projects/c/riscv_sim/src/processeur.c",
+  "file": "/home/sinan/projects/c/riscv_sim/src/processeur.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I../src -g   -pthread -std=gnu99 -o src/CMakeFiles/projet1.dir/__/main.c.o -c /home/sinan/projects/c/riscv_sim/main.c",
+  "file": "/home/sinan/projects/c/riscv_sim/main.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I../src -g   -pthread -std=gnu99 -o src/CMakeFiles/projet1.dir/__/ui/ui.c.o -c /home/sinan/projects/c/riscv_sim/ui/ui.c",
+  "file": "/home/sinan/projects/c/riscv_sim/ui/ui.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -g -std=gnu99 -o test/CMakeFiles/test.dir/__/src/decodeur.c.o -c /home/sinan/projects/c/riscv_sim/src/decodeur.c",
+  "file": "/home/sinan/projects/c/riscv_sim/src/decodeur.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -g -std=gnu99 -o test/CMakeFiles/test.dir/__/src/processeur.c.o -c /home/sinan/projects/c/riscv_sim/src/processeur.c",
+  "file": "/home/sinan/projects/c/riscv_sim/src/processeur.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -g -std=gnu99 -o test/CMakeFiles/test.dir/projet1.c.o -c /home/sinan/projects/c/riscv_sim/test/projet1.c",
+  "file": "/home/sinan/projects/c/riscv_sim/test/projet1.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -g -std=gnu99 -o test/CMakeFiles/test.dir/test_decodeur.c.o -c /home/sinan/projects/c/riscv_sim/test/test_decodeur.c",
+  "file": "/home/sinan/projects/c/riscv_sim/test/test_decodeur.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -g -std=gnu99 -o test/CMakeFiles/test.dir/test_processeur.c.o -c /home/sinan/projects/c/riscv_sim/test/test_processeur.c",
+  "file": "/home/sinan/projects/c/riscv_sim/test/test_processeur.c"
+},
+{
+  "directory": "/home/sinan/projects/c/riscv_sim/build",
+  "command": "/usr/bin/c99-gcc -g -std=gnu99 -o test/unity/CMakeFiles/unity.dir/unity.c.o -c /home/sinan/projects/c/riscv_sim/test/unity/unity.c",
+  "file": "/home/sinan/projects/c/riscv_sim/test/unity/unity.c"
+}
+]

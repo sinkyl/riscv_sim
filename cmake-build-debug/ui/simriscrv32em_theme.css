@@ -1,0 +1,132 @@
+window
+{
+    background-color: #FFFFFF;
+}
+
+/**************************************************
+ *                  LE DIALOG
+ *************************************************/
+#hbox_dialog
+{
+    border: 1px solid #E8E8E8;
+    border-radius: 4px;
+}
+
+#hbox_dialog_btn
+{
+    border-right: 1px solid #E8E8E8;
+}
+
+#dialog_btn
+{
+    background-color: #FFFFFF;
+    min-width: 70px;
+    min-height: 30px;
+    border: 0px;
+    border-radius: 0px;
+    padding: 0px;
+}
+
+#dialog_btn:hover
+{
+    color: #808080;
+}
+
+#dialog_btn:active
+{
+    color: #808080;
+}
+
+#dialog_entry
+{
+    background-color: #FFFFFF;
+    border: 0px;
+    border-radius: 0px;
+    padding: 0px;
+}
+
+/**************************************************
+ *             LES BOUTONS RADIO
+ *************************************************/
+#close_btn, #reset_btn, #stop_btn, #start_btn, #next_btn, #prev_btn
+{
+    font-weight: bold;
+    border: 2px solid #d6d6d6;
+}
+
+#mode_c, #mode_p, #mode_d
+{
+    border: 0px;
+}
+
+/**************************************************
+ *                  LES BOUTONS
+ *************************************************/
+
+vbox_layout_top
+{
+    background-color: red;
+}
+
+#close_btn, #close_btn:focus
+{
+    color: #ff0000;
+}
+
+#close_btn:hover
+{
+    color: #db0000;
+}
+
+#start_btn
+{
+    color: #00e300;
+}
+
+#stop_btn
+{
+    color: #ffa500;
+}
+
+#start_btn:hover
+{
+    color: #008000;
+}
+
+#stop_btn:hover
+{
+    color: #b37400;
+}
+
+#next_btn, #prev_btn
+{
+    border-radius: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#next_btn:hover, #prev_btn:hover
+{
+    border-color: #FFA500;
+}
+
+#next_btn:focus, #prev_btn:focus
+{
+    border-color: #d6d6d6;
+}
+
+#next_btn:active, #prev_btn:active
+{
+    border-color: #808080;
+}
+
+/**************************************************
+ *             LA BARRE DE PROGRESSION
+ *************************************************/
+#pbar
+{
+    min-width: 800px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Desktop/ele749P1-GUI/include/decodeur.h
+stdint.h
+-
+stdlib.h
+-
+instruction.h
+C:/Users/admin/Desktop/ele749P1-GUI/include/instruction.h
+
+C:/Users/admin/Desktop/ele749P1-GUI/include/instruction.h
+stdint.h
+-
+stdlib.h
+-
+
+C:/Users/admin/Desktop/ele749P1-GUI/include/processeur.h
+decodeur.h
+C:/Users/admin/Desktop/ele749P1-GUI/include/decodeur.h
+instruction.h
+C:/Users/admin/Desktop/ele749P1-GUI/include/instruction.h
+
+C:/Users/admin/Desktop/ele749P1-GUI/include/ui.h
+gtk-3.0/gtk/gtk.h
+-
+
+C:/Users/admin/Desktop/ele749P1-GUI/ui/ui.c
+gtk-3.0/gtk/gtk.h
+-
+../include/ui.h
+C:/Users/admin/Desktop/ele749P1-GUI/include/ui.h
+../include/processeur.h
+C:/Users/admin/Desktop/ele749P1-GUI/include/processeur.h
+
